@@ -1,0 +1,16 @@
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\OrOperator.exe
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\OrOperator.deps.json
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\OrOperator.runtimeconfig.json
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\OrOperator.runtimeconfig.dev.json
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\OrOperator.dll
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\ref\OrOperator.dll
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\bin\Debug\net5.0\OrOperator.pdb
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.csproj.AssemblyReference.cache
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.AssemblyInfoInputs.cache
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.AssemblyInfo.cs
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.csproj.CoreCompileInputs.cache
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.dll
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\ref\OrOperator.dll
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.pdb
+C:\Users\KristjanMändmets\source\repos\MoreLoops\OrOperator\obj\Debug\net5.0\OrOperator.genruntimeconfig.cache
